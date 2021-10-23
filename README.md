@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML & CSS
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on CSS
-- 📫 To reach me wmaleeshatech
+- 📫 To reach me https://wmaleesha.tech
 
 <!---
 wmaleesha/wmaleesha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
