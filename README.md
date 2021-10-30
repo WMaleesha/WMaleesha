@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wmaleesha
-- 👀 I’m interested in HTML & CSS
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Python
+- 🌱 I’m currently continue my learning HTML, CSS & JS
 - 💞️ I’m looking to collaborate on CSS
 - 📫 To reach me https://wmaleesha.tech
 
